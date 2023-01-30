@@ -1,0 +1,1 @@
+This project considers the hypothesis about the expediency of changing the font in a mobile application. Based on user behavior data, A/B testing was performed and its results were analyzed
